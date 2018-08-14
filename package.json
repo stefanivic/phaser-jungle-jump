@@ -6,6 +6,9 @@
   "author": "Bill Reed",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
   "devDependencies": {
     "babel-core": "6",
     "babel-loader": "^7.0.0",
