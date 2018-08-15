@@ -12,7 +12,7 @@ The demo of the game can be found on [this link](https://phaser-jungle-jump.now.
 
 1. Make a directory somewhere in your file system where you want to keep your project.
 1. `cd` into that directory from the command line.
-1. Clone this project with `git clone https://github.com/snowbillr/phaser3-webpack-es6-dev-starter.git`.
+1. Clone this project with `git clone https://github.com/stefanivic/phaser-jungle-jump.git`.
 
 ## Installing Dependencies
 
