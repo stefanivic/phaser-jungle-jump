@@ -1,7 +1,7 @@
 # Phaser 3 Stardust Game
 
 This is an adaptation of the game found in Phaser 3 documentation with improved graphics and a few more updates.
-The demo of the game can be found on [this link](https://phaser-jungle-jump.now.sh/)
+The demo of the game can be found on [this link](https://phaser-jungle-jump.now.sh/).
 
 ## Todo
 1. Add a loading/welcome screen.
